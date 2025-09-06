@@ -12,16 +12,19 @@ factured between 1970 and 1982.
 **Source:** UCI Auto MPG dataset (auto-mpg.data).
 
 **Features:**
-cylinders → Number of engine cylinders.
-displacement → Engine displacement (cubic inches).
-horsepower → Engine horsepower (some missing values).
-weight → Vehicle weight (in pounds)(lbs).
-acceleration → Time to accelerate from 0–60 mph (in seconds).
-model_year → Year of manufacture (last two digits, e.g., 70 = 1970).(70–82)
-origin → Region of origin (1 = USA, 2 = Europe, 3 = Japan).
-car_name → Car model name (text, not used directly in prediction).
-Target: mpg (Miles per Gallon).
-MPG (Target Variable) → Miles per Gallon, measure of fuel efficiency.
+- cylinders → Number of engine cylinders.
+- displacement → Engine displacement (cubic inches).
+- horsepower → Engine horsepower (some missing values).
+- weight → Vehicle weight (in pounds)(lbs).
+- acceleration → Time to accelerate from 0–60 mph (in seconds).
+- model_year → Year of manufacture (last two digits, e.g., 70 =
+  1970).(70–82)
+- origin → Region of origin (1 = USA, 2 = Europe, 3 = Japan).
+- car_name → Car model name (text, not used directly in
+  prediction).
+- Target: mpg (Miles per Gallon).
+- MPG (Target Variable) → Miles per Gallon, measure of fuel
+  efficiency.
 
 # Methodology
 
