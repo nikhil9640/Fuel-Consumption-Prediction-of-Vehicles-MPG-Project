@@ -24,16 +24,17 @@ Target: mpg (Miles per Gallon).
 MPG (Target Variable) → Miles per Gallon, measure of fuel efficiency.
 
 # Methodology
-Step 1: Imports the necessary libraries
-Step 2: Data Exploration
-     2.1: Load dataset
-Step 3: Exploratory Data Analysis (EDA)
-Step 4: Data Preprocessing
-Step 5: Feature Selection / Importance
-Step 6: Model Training & Evaluation
-Step 7: (Optional) Train a Random Forest and compare
-Step 8: Save artifacts
-Step 9: Quick summary print
+
+- Step 1: Imports the necessary libraries
+- Step 2: Data Exploration
+- Step 2.1: Load dataset
+- Step 3: Exploratory Data Analysis (EDA)
+- Step 4: Data Preprocessing
+- Step 5: Feature Selection / Importance
+- Step 6: Model Training & Evaluation
+- Step 7: (Optional) Train a Random Forest and compare
+- Step 8: Save artifacts
+- Step 9: Quick summary print
 
 # Conclusions
 **1 Key Influencing Factors:**
